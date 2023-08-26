@@ -1,39 +1,37 @@
 # TC3006C.101_A00828096_PortafolioAnalisis
 
-This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the implementation portfolio deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors.
+Este repositorio esta dedicado a las entregas individuales pertinentes al **análisis de implementación** del curso TC3006C y es propiedad de:
 
-## Structure of this repository
+**Nombre: Arturo Garza Campuzano**
 
-The root folder of this repository contains the following files and folders:
+**Matrícula: A00828096**
 
-- **Files**
-  - README.md: This file
-- **Folders**
-  - final: Folder with the information about the final deliverables, which include the changes that the reviewers asked for
-  - retro: Folder with the information about the draft version of each deliverable, which are provided for requesting feedback
+## Estructura de este repositorio
 
-## Files for revision
+La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas:
 
-Following is a list of the files that must be checked for grading each subcompetency:
+- **Archivos**
+  - README.md: Este archivo.
+- **Carpetas**
+  - Final: Carpeta destinada a los entregables finales, incluyen los cambios solicitados por los revisores.
+  - Retroalimentación: Carpeta destinada a la versión borrador de cada entregable, favor de incluir retroalimentación.
+
+## Archivos para revisión
+
+A continuación, se muestra una lista de los archivos que se deben revisar para calificar cada subcompetencia:
+
+- *Módulo 1: Estadística*
+  - *SMA0102A*
+    - **Evidencia 01: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos** Favor de revisar el archivo **Retroalimentacion/Estadistica/Evidencia01/Tecnicas_Procesamiento.ipynb**
+
+## Cambios solicitados y respuestas
+
+A continuación, se incluye una lista de la ubicación de los problemas que plantearon los revisores durante la fase de comentarios. Por favor refiérase a ellos para más detalles.
 
 - *Module 1: Statistics*
   - *SMA0101A*
-    - **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
+    - **Evidencia 01: Modeling: N/A**
 - *Module 2: Machine Learning*
   - *SMA0401A*
-    - **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-    - **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
-
-## Requested changes and replies
-
-Following is a list of the location of the issues that were raised by the reviewer during the feedback phase. Please refer to them for more details.
-
-- *Module 1: Statistics*
-  - *SMA0101A*
-    - **Evidence 01: Modeling: final/M1_Statistics/README.md**
-- *Module 2: Machine Learning*
-  - *SMA0401A*
-    - **Evidence 01: ML from scratch: final/M2_ML/README.md**
-    - **Evidence 02: ML from a framework: final/M2_ML/README.md**
-      
-See you!
+    - **Evidencia 01: ML from scratch: N/A**
+    - **Evidencia 02: ML from a framework: N/A**
