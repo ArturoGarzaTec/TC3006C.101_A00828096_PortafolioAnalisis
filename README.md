@@ -23,6 +23,9 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Módulo 1: Estadística*
   - *SMA0102A*
     - **Evidencia 01: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos** Favor de revisar el archivo **Retroalimentacion/Estadistica/Evidencia01/Tecnicas_Procesamiento.ipynb**
+- *Reto*
+  - *SEG0403A*
+    - **Evidencia 02: Análisis del contexto y la normatividad** Favor de revisar el archivo **Retroalimentacion/Reto/Evidencia02/Analisis_ContextoNormatividad.pdf**
 
 ## Cambios solicitados y respuestas
 
