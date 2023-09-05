@@ -23,6 +23,13 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Módulo 1: Estadística*
   - *SMA0102A*
     - **Evidencia 01: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos** Favor de revisar el archivo **Retroalimentacion/Estadistica/Evidencia01/Tecnicas_Procesamiento.ipynb**
+- *Módulo 2: Aprendizaje Máquina*
+  - *SMA0104A*
+    - **Evidencia 03: Análisis y Reporte sobre el desempeño del modelo** Favor de revisar el archivo **Retroalimentacion/AprendizajeMaquina/Evidencia03/AnalisisReporte_Desempeno.ipynb**
+      - Descripción del modelo implementado: El modelo implementado es un clasificador de árbol de decisión, esta es una herramienta ideal para la clasificación de datos en clases discretas. Para construir este modelo se utilizó la clase DecisionTreeClassifier de sklearn con el criterio de entropía como parámetro.
+      - Descripción del dataset utilizado:
+        - Nombre: Diabetes Dataset
+        - URL: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 - *Reto*
   - *SEG0403A*
     - **Evidencia 02: Análisis del contexto y la normatividad** Favor de revisar el archivo **Retroalimentacion/Reto/Evidencia02/Analisis_ContextoNormatividad.pdf**
