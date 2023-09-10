@@ -46,4 +46,4 @@ A continuación, se incluye una lista de la ubicación de los problemas que plan
     - **Evidencia 03: Análisis y Reporte sobre el desempeño del modelo** Favor de revisar el archivo **Final/AprendizajeMaquina/Evidencia03/AnalisisReporte_Desempeno_CambiosSolicitados.pdf**
 - *Reto*
   - *SEG0403A*
-    - **Evidencia 02: Análisis del contexto y la normatividad** Favor de revisar el archivo **Final/Reto/Evidencia02/Analisis_ContextoNormatividad.pdf**
+    - **Evidencia 02: Análisis del contexto y la normatividad** Favor de revisar el archivo **Final/Reto/Evidencia02/Analisis_ContextoNormatividad_CambiosSolicitados.pdf**
