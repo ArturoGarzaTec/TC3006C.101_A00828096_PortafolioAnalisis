@@ -23,6 +23,9 @@ A continuación, se muestra una lista de los archivos que se deben revisar para 
 - *Módulo 1: Estadística*
   - *SMA0102A*
     - **Evidencia 01: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos** Favor de revisar el archivo **Final/Estadistica/Evidencia01/Tecnicas_Procesamiento.ipynb**
+    - **Actividad 01: Algunas distribuciones de probabilidad** Favor de revisar el archivo **Final/Estadistica/Actividad01/Distribuciones_Probabilidad.pdf**
+    - **Actividad 02: Explorando bases** Favor de revisar el archivo **Final/Estadistica/Actividad02/Explorando_Bases.pdf**
+    - **Actividad 03: Transformaciones** Favor de revisar el archivo **Final/Estadistica/Actividad03/Transformaciones.pdf**
 - *Módulo 2: Aprendizaje Máquina*
   - *SMA0104A*
     - **Evidencia 03: Análisis y Reporte sobre el desempeño del modelo** Favor de revisar el archivo **Final/AprendizajeMaquina/Evidencia03/AnalisisReporte_Desempeno.ipynb**
