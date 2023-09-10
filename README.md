@@ -1,6 +1,6 @@
 # TC3006C.101_A00828096_PortafolioAnalisis
 
-Este repositorio esta dedicado a las entregas individuales pertinentes al **análisis de implementación** del curso TC3006C y es propiedad de:
+Este repositorio esta dedicado a las entregas individuales pertinentes al **portafolio de análisis** del curso TC3006C y es propiedad de:
 
 **Nombre: Arturo Garza Campuzano**
 
