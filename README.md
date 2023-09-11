@@ -45,7 +45,7 @@ A continuación, se incluye una lista de la ubicación de los problemas que plan
   - *SMA0102A*
     - **Evidencia 01: Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos** Favor de revisar el archivo **Final/Estadistica/Evidencia01/Tecnicas_Procesamiento_CambiosSolicitados.pdf**
 - *Módulo 2: Aprendizaje Máquina*
-  - *SMA0401A*
+  - *SMA0104A*
     - **Evidencia 03: Análisis y Reporte sobre el desempeño del modelo** Favor de revisar el archivo **Final/AprendizajeMaquina/Evidencia03/AnalisisReporte_Desempeno_CambiosSolicitados.pdf**
 - *Reto*
   - *SEG0403A*
